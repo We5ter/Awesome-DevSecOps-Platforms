@@ -30,6 +30,7 @@
 - https://github.com/nlfox/ctfPlatform (Yet Another CTF Platform)
 - https://github.com/niranjan94/OpenCTF (An Open Sourced CTF hosting platform)
 - https://github.com/youmengxuefei/CTF-PLATFORM (A simple CTF platform)
+- https://github.com/WangYihang/SniperOJ （A CTF platform,with good prospects)
 
 #### ruby
 
