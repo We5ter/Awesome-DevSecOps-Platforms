@@ -1,6 +1,6 @@
 # Create_Your_CTFs
 
-**Description**:A hub of open source CTF platform
+**Description**:A hub of open source CTF platform(本仓库内容等待更新，准备加上平台评分和搭建难易程度、可能存在的安全漏洞）
 
 <hr>
 
