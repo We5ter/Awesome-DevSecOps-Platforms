@@ -1,6 +1,6 @@
 # Create_Your_CTFs
 
-**Description**:A hub of open source CTF platform(本仓库内容等待更新，准备加上平台评分和搭建难易程度、可能存在的安全漏洞）
+**Description**:A hub of open source CTF platform
 
 <hr>
 
@@ -35,6 +35,7 @@
 #### ruby
 
 - https://github.com/qazbnm456/Docker-War (Docker based Wargame Platform - To practice your CTF skills)
+- https://github.com/mcpa-stlouis/hack-the-arch (A free open source scoring server for cyber Capture the Flag competitions）
 
 #### Node.js
 
