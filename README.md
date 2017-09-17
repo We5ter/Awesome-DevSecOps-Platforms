@@ -14,4 +14,28 @@ A curated list of awesome platforms,including CTF/Security Response Center/Bug T
 
 <hr>
 
+### Project Maintenance
 
+**Wester**(Twitter <a href="http://twitter.com/Hi_Wester/">@Hi_Wester</a> & sina weibo <a href="https://weibo.com/zzyme/">@西风微雨_Wester</a>) 
+
+### Symbolic Description
+
+[↑] means update,[+] means add,[-] means remove
+
+### Disclaimer
+
+Do not use for illegal purposes.
+
+### How to contribute?
+
+We welcome everyone to contribute,you can open an issue for this if you have some idea,and then I will add your name to Acknowledgments.
+
+### Copyright
+
+Please specify reproduced from https://github.com/We5ter/Awesome-Platforms
+
+### Acknowledgments
+
+TBD
+
+@Sixtant Security Lab 2017
