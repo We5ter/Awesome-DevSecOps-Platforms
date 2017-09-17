@@ -12,6 +12,11 @@ A curated list of awesome platforms,including CTF/Security Response Center/Bug T
 
  - [Awesome CTF Platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/CTF-Platforms.md)
 
+
+### Bug Tracker
+
+- [Awesome Bug Tracker Platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/BT-platforms.md)
+
 <hr>
 
 ### Project Maintenance
