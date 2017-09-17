@@ -1,9 +1,3 @@
-# Let us CTF
-
-**Description**:A hub of open source CTF platform
-
-<hr>
-
 #### Python
 
 - https://github.com/abdesslem/CTF (Flask platform for Capture The Flag challenges)
