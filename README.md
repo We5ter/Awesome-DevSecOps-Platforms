@@ -24,7 +24,7 @@ A curated list of awesome platforms,including CTF/Security Response Center/Bug T
 
 ### Project Maintenance
 
-**Wester**(Twitter <a href="http://twitter.com/Hi_Wester/">@Hi_Wester</a> & sina weibo <a href="https://weibo.com/zzyme/">@西风微雨_Wester</a>) 
+**Wester**(Twitter <a href="http://twitter.com/Hi_Wester/">@Hi_Wester</a> & sina weibo <a href="https://weibo.com/zzyme/">@Wester的小号</a>) 
 
 ### Symbolic Description
 
