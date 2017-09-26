@@ -22,11 +22,11 @@ A curated list of awesome platforms,including CTF/Security Response Center/Bug T
 
 ### Malware Analysis
 
--[Awesome Malware Analysis Platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/MA-paltforms.md)
+- [Awesome Malware Analysis Platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/MA-paltforms.md)
 
 ### Honeypots 
 
--[Awesome Honeypots platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/H-platforms.md)
+- [Awesome Honeypots platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/H-platforms.md)
 
 <hr>
 
