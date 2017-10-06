@@ -5,5 +5,5 @@
 - https://github.com/aspnet/BugTracker (Sample BugTracker application that uses MVC for APIs and SignalR for real-time)
 - https://github.com/bugzilla/bugzilla (Official repository for the Bugzilla bug tracking system)
 - https://github.com/Flyspray/flyspray (Flyspray Bug Tracking System)
-
+- https://github.com/dradis/dradis-ce (Colllaboration and reporting for IT Security teams)
  
