@@ -3,10 +3,10 @@
 - https://x.threatbook.cn
 - https://ti.360.com
 - https://exchange.xforce.ibmcloud.com
-- https://nosec.org
 - https://github.com/abusesa/abusehelper
 - https://www.dhs.gov/ais
 - https://crits.github.io
 - https://community.blueliv.com/#!/discover
 - https://github.com/byt3smith/malstrom
 - http://www.openioc.org
+- https://github.com/Tripwire/tardis (Threat Analysis, Reconnaissance, and Data Intelligence System)
