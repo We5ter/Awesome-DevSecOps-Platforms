@@ -18,5 +18,4 @@
 * [glastopf](https://github.com/mushorg/glastopf) - WEB application honeypot
 * [elastichoney](https://github.com/jordan-wright/elastichoney) - Database honeypot
 * [Dionaea](https://github.com/atiger77/Dionaea) - WEB application honeypot
-* [CONPOT](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
 * [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB Proxy honeypot
