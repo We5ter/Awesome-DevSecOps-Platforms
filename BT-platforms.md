@@ -6,4 +6,4 @@
 - https://github.com/bugzilla/bugzilla (Official repository for the Bugzilla bug tracking system)
 - https://github.com/Flyspray/flyspray (Flyspray Bug Tracking System)
 - https://github.com/dradis/dradis-ce (Colllaboration and reporting for IT Security teams)
- 
+- https://github.com/OWASP/django-DefectDojo (Open-source defect tracking application)
