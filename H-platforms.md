@@ -2,14 +2,21 @@
 
 *From https://github.com/rshipp/awesome-malware-analysis*
 
-* [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
+* [Conpot](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
 * [Cowrie](https://github.com/micheloosterhof/cowrie) - SSH honeypot, based
-  on Kippo.
-  [Dionaea](https://github.com/DinoTools/dionaea) - Honeypot designed to trap malware.
-* [Glastopf](https://github.com/mushorg/glastopf) - Web application honeypot.
-* [Honeyd](http://www.honeyd.org/) - Create a virtual honeynet.
-* [HoneyDrive](http://bruteforcelab.com/honeydrive) - Honeypot bundle Linux distro.
+  on Kippo
+  [Dionaea](https://github.com/DinoTools/dionaea) - Honeypot designed to trap malware
+* [Glastopf](https://github.com/mushorg/glastopf) - Web application honeypot
+* [Honeyd](http://www.honeyd.org/) - Create a virtual honeynet
+* [HoneyDrive](http://bruteforcelab.com/honeydrive) - Honeypot bundle Linux distro
 * [Mnemosyne](https://github.com/johnnykv/mnemosyne) - A normalizer for
-  honeypot data; supports Dionaea.
+  honeypot data; supports Dionaea
 * [Thug](https://github.com/buffer/thug) - Low interaction honeyclient, for
-  investigating malicious websites.
+  investigating malicious websites
+* [kippo](https://github.com/desaster/kippo) - SSH honeypot
+* [mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot
+* [glastopf](https://github.com/mushorg/glastopf) - WEB application honeypot
+* [elastichoney](https://github.com/jordan-wright/elastichoney) - Database honeypot
+* [Dionaea](https://github.com/atiger77/Dionaea) - WEB application honeypot
+* [CONPOT](https://github.com/mushorg/conpot) - ICS/SCADA honeypot
+* [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB Proxy honeypot
