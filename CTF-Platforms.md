@@ -18,6 +18,7 @@
 - https://github.com/pdautry/py_chall_factory (Small framework to create/manage/package jeopardy CTF challenges)
 - https://github.com/EasyCTF/openctf （CTF in a box. Minimal setup required）
 - https://github.com/UnrealAkama/NightShade (A simple capture the flag framework)
+- https://github.com/HeavenH/flask (An awesome CTF platform made by HeavenH)
 
 #### JAVA
 
