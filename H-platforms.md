@@ -19,3 +19,4 @@
 * [elastichoney](https://github.com/jordan-wright/elastichoney) - Database honeypot
 * [Dionaea](https://github.com/atiger77/Dionaea) - WEB application honeypot
 * [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) - MongoDB Proxy honeypot
+* [telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) - Python telnet honeypot for catching botnet binaries
