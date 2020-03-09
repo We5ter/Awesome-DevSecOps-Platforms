@@ -16,7 +16,6 @@
 - https://github.com/KevaTeam/ProjectAsya (Platform for the CTF Jeopardy)
 - https://github.com/SynAckPwn23/SCTF (Security Capture the Flag Platform)
 - https://github.com/pdautry/py_chall_factory (Small framework to create/manage/package jeopardy CTF challenges)
-- https://github.com/EasyCTF/openctf （CTF in a box. Minimal setup required）
 - https://github.com/UnrealAkama/NightShade (A simple capture the flag framework)
 - https://github.com/HeavenH/flask (An awesome CTF platform made by HeavenH)
 
@@ -44,3 +43,7 @@
 
 - https://github.com/EasyCTF/JS-CTF-Platform (Platform for hosting CTFs)
 - https://github.com/summerwish/DummyCTFPlatform (Yet another CTF Platform from Tongji university)
+
+#### Rust
+
+- https://github.com/EasyCTF/librectf （CTF in a box. Minimal setup required)
