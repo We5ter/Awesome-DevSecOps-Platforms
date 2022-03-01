@@ -1,5 +1,8 @@
 # Awesome CTF Platforms [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/We5ter/Awesome-Platforms)
 
+#### General
+
+- [CTF platforms @ Rawsec Inventory](https://inventory.raw.pm/ctf_platforms.html) - Complete list of CTF platforms
 
 #### Python
 
