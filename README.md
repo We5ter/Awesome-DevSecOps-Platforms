@@ -1,4 +1,4 @@
-# Awesome Platforms [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/We5ter/Awesome-Platforms)
+# Awesome DevSecOps Platforms [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/We5ter/Awesome-DevSecOps-Platforms)
 
 A curated list of awesome platforms,including CTF/Security Response Center/Bug Tracker and so on.
 
