@@ -46,6 +46,7 @@
 
 - https://github.com/EasyCTF/JS-CTF-Platform (Platform for hosting CTFs)
 - https://github.com/summerwish/DummyCTFPlatform (Yet another CTF Platform from Tongji university)
+- https://github.com/chadeckles/sentinelforgectf (We’re an open-source cyber CTF platform that’s forever free and built for builders, hackers, and learners. Our vibrant community makes learning modern security techniques fun, challenging, and hands-on)
 
 #### Rust
 
