@@ -26,6 +26,7 @@ A curated list of awesome platforms,including CTF/Security Response Center/Bug T
 
 ### Honeypots 
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - an open source (GPL-3.0) autonomous AI penetration testing platform for web, API, Active Directory and Kubernetes.
 - [Awesome Honeypots platforms](https://github.com/We5ter/Awesome-Platforms/blob/master/H-platforms.md)
 
 <hr>
